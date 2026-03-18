@@ -1,3 +1,7 @@
+Page generated from the Academic Pages template. More info and link below:
+
+==========================================================================================
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
