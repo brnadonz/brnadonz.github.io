@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to [download a copy of my CV](/files/Brandon_Zhu_CV__Public_.pdf).
+Click here to [download a copy of my CV](/files/CV_public.pdf).
 
 <!-- 
 Education
